@@ -1,5 +1,5 @@
 ```Dockerfile
-FROM CHINA:1990
+FROM CHINA:latest
 ENV BEIJING
 WORKDIR /huijiwiki.com
 RUN git clone https://github.com/Reasno/Reasno
