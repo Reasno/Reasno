@@ -1,7 +1,7 @@
 ```Dockerfile
 FROM CHINA:latest
 ENV BEIJING
-WORKDIR /huijiwiki.com
+WORKDIR /Users/bytedance
 RUN git clone https://github.com/Reasno/Reasno
 CMD ['whoami']
 ```
