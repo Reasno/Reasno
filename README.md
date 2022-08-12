@@ -1,7 +1,3 @@
-```Dockerfile
-FROM CHINA:latest
-ENV BEIJING
-WORKDIR /Users/bytedance
-RUN git clone https://github.com/Reasno/Reasno
-CMD ['whoami']
-```
+
+> [飞书IM内推](https://job.toutiao.com/s/j6sPV8p)
+
